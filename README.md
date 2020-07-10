@@ -45,7 +45,8 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 
 ### R
-* The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
+* The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) and [website](https://safegraphinc.github.io/SafeGraphR/) -- Package for reading and analyzing SafeGraph foot traffic data
+* Vignettes for using the SafeGraphR package to process [patterns](https://safegraphinc.github.io/SafeGraphR/articles/patterns_vignette.html) data and [stay-at-home](https://safegraphinc.github.io/SafeGraphR/articles/distancing_vignette.html) data
 * [The Stanford Future Bay Initiative: Covid-19 Rapid Response Projects](https://github.com/stanfordfuturebay/stanfordfuturebay.github.io/tree/master/covid19) -- a collection of R functions and documentation for processing, normalizing, and analyzing SafeGraph foot-traffic data
 * A [Demonstration](https://nickch-k.github.io/SafeGraphRProcessing/County_Level_Distancing_Demonstration.html) of how to do population weighting and Hierarchical Bayes shrinkage with SafeGraph social distancing data.
 * For SafeGraph social distancing metrics, [map census tracts to zip codes](https://github.com/jwilliamsholt/safegraph-in-r/blob/master/social_distance_by_tract_and_by_zip.rmd). 
